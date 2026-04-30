@@ -1,4 +1,4 @@
-# 👗 Boutique Management System
+# Boutique Management System
 
 A dynamic **Java Web Application** for an online boutique store. This project implements a full e-commerce workflow—from user registration to a simulated checkout—using JSP, JDBC, and PostgreSQL.
 
